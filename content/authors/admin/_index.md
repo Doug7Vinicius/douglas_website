@@ -1,36 +1,36 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests in studies include linear regression, statistical probability programming in R and Python.
+
 education:
   courses:
-  - course: Bacharel em Statistic
+  - course: Bachelor of Statistics
     institution: Federal University of Rondônia
     year: 2020
-email: ""
+email: "doug7statistic@gmail.com"
 interests:
 - Linear Regression Analysis
 - Number Theory
 - R programming
 name: Douglas Vinícius
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Federal University of Rondônia
+  url: "www.unir.br"
+role: Academic of Statistics
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Doug7Vinicius
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/douglasvinicius777/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Douglas69572577
 superuser: true
 user_groups:
 - Researchers
