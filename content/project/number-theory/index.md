@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-08-11T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Números primos, resultados, curiosidades, testes de primalidade e fatoração.
 tags:
 - Deep Learning
-title: Internal Project
+title: Números Primos e Criptografia RSA
 url_code: ""
 url_pdf: ""
 url_slides: ""

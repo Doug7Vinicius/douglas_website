@@ -34,9 +34,20 @@
   </url>
   
   <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/demo/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/number-theory/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -46,7 +57,7 @@
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>/project/regression-project/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,17 +140,6 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

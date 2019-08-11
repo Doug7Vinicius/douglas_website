@@ -2,7 +2,6 @@
 authors:
 - admin
 bio: My interests in studies include linear regression, statistical probability programming in R and Python.
-
 education:
   courses:
   - course: Bachelor of Statistics
@@ -37,6 +36,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a statistics scholar, seeking to understand what is apparently chaotic and to see hidden patterns. My interests are diverse: Statistics, Number Theory, Cello, Astrophotography and Chess.
+
+
+*The woods are lovely, dark and deep; but I have promises to keep, and miles to go before bed.* - Robert Frost 
