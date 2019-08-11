@@ -38,4 +38,9 @@ subtitle = ""
   name = "Astrophotography"
   description = ""
 
+[[feature]]
+  icon = "chess"
+  icon_pack = "fas"
+  name = "Chess"
+  description = ""
 +++
