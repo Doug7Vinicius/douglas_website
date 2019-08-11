@@ -15,7 +15,7 @@ interests:
 name: Douglas Vinícius
 organizations:
 - name: Federal University of Rondônia
-  url: "www.unir.br"
+  url: "https://www.unir.br/"
 role: Academic of Statistics
 social:
 - icon: envelope
