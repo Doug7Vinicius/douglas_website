@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 summary: This project aims to study and analyze the book "Linear Models with R" by Julian Faraway, using an external site implemented in RStudio. `external_link`.
 tags:
-- Demo
+- R
+- Regression
 title: Regression Project
 ---

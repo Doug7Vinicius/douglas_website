@@ -24,7 +24,9 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+  [[content.filter_button]]
+    name = "R"
+    tag = "R"
   [[content.filter_button]]
     name = "Regression"
     tag = "Regression"

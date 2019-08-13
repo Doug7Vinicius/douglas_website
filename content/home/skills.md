@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R Programming"
-  description = "tidyverse + R Markdown"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Data Visualisation"
-  description = "shiny + plotly + ggplot"  
+  description = "tidyverse + R Markdown + blogdown"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Jupyter + NumPy"
+  description = "Jupyter"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Data Visualisation"
+  description = "shiny + plotly + ggplot"  
 
 [[feature]]
   icon = "camera-retro"
@@ -43,4 +43,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Chess"
   description = ""
+  
+[[feature]]
+  icon = "music classic"
+  icon_pack = "fas"
+  name = "Cello"
+  description = ""  
 +++

@@ -12,7 +12,7 @@ links:
 slides: example
 summary: Números primos, resultados, curiosidades, testes de primalidade e fatoração.
 tags:
-- Deep Learning
+-  Demo
 title: Números Primos e Criptografia RSA
 url_code: ""
 url_pdf: ""
