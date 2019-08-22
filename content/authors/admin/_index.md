@@ -11,7 +11,7 @@ email: "doug7statistic@gmail.com"
 interests:
 - Linear Regression Analysis
 - Number Theory
-- R programming
+- C++ and R programming
 name: Douglas Vinícius
 organizations:
 - name: Federal University of Rondônia

@@ -37,5 +37,19 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Análise de Sobrevivência</title>
+      <link>/project/survival-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/survival-analysis/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R markdown&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

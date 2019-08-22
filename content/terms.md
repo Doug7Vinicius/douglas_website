@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 share: false
-title: Douglas Vinícius
+title: 
 ---
 
 ...

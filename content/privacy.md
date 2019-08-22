@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 share: false
-title: © 2019
+title: 
 ---
 
 ...

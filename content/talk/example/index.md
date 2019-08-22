@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Academic's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Ridge Regression and RStudio
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -38,6 +38,8 @@ Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
 
 Slides can be added in a few ways:
+
+
 
 - **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
