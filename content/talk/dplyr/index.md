@@ -15,7 +15,7 @@ links:
 - icon: github
   icon_pack: fab
   name: materials
-  url: https://twitter.com/Douglas69572577
+  url: https://github.com/Doug7Vinicius/Introduction-dplyr
 location: Ji-Paraná, Rondônia
 math: true
 projects:
