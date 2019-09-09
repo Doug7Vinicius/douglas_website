@@ -13,9 +13,11 @@ slides:
   highlight_style: dracula
 ---
 
-# Welcome to Slides
+# Manipulação de Data Frames com o Pacote dplyr
 
 [Academic](https://sourcethemes.com/academic/)
+
+![dplyr](featured.png)
 
 ---
 

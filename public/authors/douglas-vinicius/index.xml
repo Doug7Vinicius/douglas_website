@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Vinícius</title>
+    <link>/authors/douglas-vinicius/</link>
+      <atom:link href="/authors/douglas-vinicius/index.xml" rel="self" type="application/rss+xml" />
+    <description>Douglas Vinícius</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/normal_1.png</url>
+      <title>Douglas Vinícius</title>
+      <link>/authors/douglas-vinicius/</link>
+    </image>
+    
+    <item>
+      <title>Introduction dplyr package</title>
+      <link>/talk/dplyr/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/dplyr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/normal_1.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Douglas Vinícius</title>
+      <link>/authors/douglas-vinicius/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/douglas-vinicius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisângela C. Biazatti</title>
+      <link>/authors/elisangela-c.-biazatti/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/elisangela-c.-biazatti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jossivana Macedo</title>
+      <link>/authors/jossivana-macedo/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jossivana-macedo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
