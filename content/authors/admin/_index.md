@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My interests in studies include linear regression, statistical probability programming in R and Python.
+bio: My interests in studies include linear regression, statistical probability programming in R.
 education:
   courses:
   - course: Bachelor of Statistics
