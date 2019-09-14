@@ -37,7 +37,7 @@ user_groups:
 ---
 
 
-I am a statistics scholar, seeking to understand what is apparently chaotic and to see hidden patterns. My interests are diverse: Statistics, Number Theory, Cello, Astrophotography and Chess.
+I am a statistics scholar, seeking to understand what is apparently chaotic and to see hidden patterns.
 
 *And let not your behaviour be like that of this world, but be changed and made new in mind, so that by experience you may have knowledge of the good and pleasing and complete purpose of God.* - Romans 12:2.
 
