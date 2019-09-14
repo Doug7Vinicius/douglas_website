@@ -29,7 +29,7 @@ social:
   link: https://www.linkedin.com/in/douglasvinicius777/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Douglas69572577
+  link: https://twitter.com/doug7_vin
 superuser: true
 user_groups:
 - Researchers
