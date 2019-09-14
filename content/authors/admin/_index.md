@@ -41,4 +41,4 @@ I am a statistics scholar, seeking to understand what is apparently chaotic and 
 
 *And let not your behaviour be like that of this world, but be changed and made new in mind, so that by experience you may have knowledge of the good and pleasing and complete purpose of God.* - Romans 12:2.
 
-*The woods are lovely, dark and deep; but I have promises to keep, and miles to go before bed.* - Robert Frost 
+*Dominus illuminatio mea*

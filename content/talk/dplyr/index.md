@@ -22,7 +22,7 @@ projects:
 publishDate: "2019-09-07"
 slides: example
 summary: Short course about the dplyr package and its basic functions.
-tags: [dplyr, Rpubs, RStudio]
+tags: [dplyr]
 title: Introduction dplyr package
 url_code: ""
 url_pdf: ""
