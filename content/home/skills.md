@@ -20,11 +20,11 @@ subtitle = ""
   name = "R Programming"
   description = "tidyverse + R Markdown + blogdown"
   
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Jupyter"
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
+#  description = "Jupyter"
 
 [[feature]]
   icon = "chart-line"
