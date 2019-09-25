@@ -39,6 +39,6 @@ user_groups:
 
 I am a statistics scholar, seeking to understand what is apparently chaotic and to see hidden patterns.
 
-*And let not your behaviour be like that of this world, but be changed and made new in mind, so that by experience you may have knowledge of the good and pleasing and complete purpose of God.* - Romans 12:2.
+*I have been put to death on the cross with Christ; still I am living; no longer I, but Christ is living in me; and that life which I now am living in the flesh I am living by faith, the faith of the Son of God, who in love for me, gave himself up for me.* - Galatians 2:20.
 
 *Dominus illuminatio mea*
