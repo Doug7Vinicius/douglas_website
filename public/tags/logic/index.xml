@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logic | Douglas Vinícius</title>
+    <link>/tags/logic/</link>
+      <atom:link href="/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+    <description>logic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2019 21:14:14 -0500</lastBuildDate>
+    <image>
+      <url>/img/normal_1.png</url>
+      <title>logic</title>
+      <link>/tags/logic/</link>
+    </image>
+    
+    <item>
+      <title>Lógica Matemática</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Fri, 20 Sep 2019 21:14:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;logica-matematica&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Lógica Matemática&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -30,23 +30,23 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualisation"
-  description = "shiny + plotly + ggplot"  
+  description = "ggplot2"  
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Astrophotography"
-  description = ""
+#[[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Astrophotography"
+#  description = ""
 
-[[feature]]
-  icon = "chess"
-  icon_pack = "fas"
-  name = "Chess"
-  description = ""
+#[[feature]]
+#  icon = "chess"
+#  icon_pack = "fas"
+#  name = "Chess"
+#  description = ""
   
-[[feature]]
-  icon = "music classic"
-  icon_pack = "fas"
-  name = "Cello"
-  description = ""  
+#[[feature]]
+#  icon = "music classic"
+#  icon_pack = "fas"
+#  name = "Cello"
+#  description = ""  
 +++

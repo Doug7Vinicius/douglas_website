@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git | Douglas Vinícius</title>
+    <link>/tags/git/</link>
+      <atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>git</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/normal_1.png</url>
+      <title>git</title>
+      <link>/tags/git/</link>
+    </image>
+    
+    <item>
+      <title>Git and Github with R</title>
+      <link>/talk/rgit/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/rgit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
