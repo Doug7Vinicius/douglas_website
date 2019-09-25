@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R | Douglas Vinícius</title>
-    <link>/tags/r/</link>
-      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
-    <description>R</description>
+    <title>tidyverse | Douglas Vinícius</title>
+    <link>/tags/tidyverse/</link>
+      <atom:link href="/tags/tidyverse/index.xml" rel="self" type="application/rss+xml" />
+    <description>tidyverse</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/normal_1.png</url>
-      <title>R</title>
-      <link>/tags/r/</link>
+      <title>tidyverse</title>
+      <link>/tags/tidyverse/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/talk/dplyr/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/talk/dplyr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression Project</title>
-      <link>/project/regression-project/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/regression-project/</guid>
       <description></description>
     </item>
     

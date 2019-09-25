@@ -22,7 +22,7 @@ projects:
 publishDate: "2019-09-07"
 slides: example
 summary: Short course about the dplyr package and its basic functions.
-tags: [dplyr]
+tags: [dplyr, R, tidyverse]
 title: Introduction dplyr
 url_code: ""
 url_pdf: ""
