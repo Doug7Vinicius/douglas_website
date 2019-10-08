@@ -7,7 +7,7 @@
   <div class="article-container">
 
     {{ if .Params.abstract }}
-      <h3>{{ i18n "abstract" }}</h3>
+      <h3>{{ i18n "" }}</h3>
       <p class="pub-abstract" itemprop="text">{{ .Params.abstract | markdownify | emojify }}</p>
     {{ else }}
       <br>

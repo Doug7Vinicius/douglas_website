@@ -1,5 +1,5 @@
 ---
-Abstract: dplyr is a a great tool to perform data manipulation. It makes your data analysis process a lot more efficient. Even better, it's fairly simple to learn and start applying immediately to your work! Oftentimes, with just a few elegant lines of code, your data becomes that much easier to dissect and analyze. 
+Abstract: O `dplyr` é uma ótima ferramenta para realizar manipulação de dados. Isso torna seu processo de análise de dados muito mais eficiente. Melhor ainda, é bastante simples aprender e começar a se aplicar imediatamente ao seu trabalho! Muitas vezes, com apenas algumas linhas de código elegantes, seus dados ficam muito mais fáceis de dissecar e analisar. 
 all_day: true
 authors: [Elisângela C. Biazatti, Douglas Vinícius, Jossivana Macedo]
 date: "2019-10-22"
@@ -15,15 +15,18 @@ links:
   icon_pack: fab
   name: materials
   url: https://github.com/Doug7Vinicius/Introduction-dplyr
+- icon: book
+  icon_pack: fab
+  name: apostila
 location: Ji-Paraná, Rondônia
 math: true
 projects:
 - internal-project
 publishDate: "2019-09-07"
 slides: example
-summary: Short course about the dplyr package and its basic functions.
+summary: Minicurso sobre manipulação de dados com o pacote dplyr e suas funções básicas.
 tags: [dplyr, R, tidyverse]
-title: Introduction dplyr
+title: Introdução ao Pacote dplyr
 url_code: ""
 url_pdf: ""
 url_slides: ""
