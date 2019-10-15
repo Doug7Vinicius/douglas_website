@@ -13,11 +13,12 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: materials
+  name: Materiais
   url: https://github.com/Doug7Vinicius/Introduction-dplyr
 - icon: book
   icon_pack: fab
-  name: apostila
+  name: Apostila
+  url: https://doug7vinicius.github.io/introduction-dplyr/
 location: Ji-Paraná, Rondônia
 math: true
 projects:
