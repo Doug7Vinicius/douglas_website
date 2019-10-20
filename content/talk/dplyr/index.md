@@ -14,7 +14,7 @@ links:
 - icon: slide
   icon_pack: fab
   name: Slides
-  url: https://github.com/Doug7Vinicius/introduction-dplyr/blob/master/ninja/intro-dplyr.html#1
+  url: https://github.com/Doug7Vinicius/douglas_website/blob/master/content/slides/ninja/intro-dplyr.html#1
 - icon: github
   icon_pack: fab
   name: Materiais
