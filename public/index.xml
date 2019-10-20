@@ -418,187 +418,6 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;introdução-do-pacote-dplyr&#34;&gt;Introdução do Pacote dplyr&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -898,6 +717,505 @@ $$&lt;/p&gt;
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R markdown&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Pacote dplyr</title>
+      <link>/slides/ninja/intro-dplyr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/slides/ninja/intro-dplyr/</guid>
+      <description>
+
+
+&lt;div id=&#34;partes&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Partes&lt;/h1&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Introdução sobre R&lt;/li&gt;
+&lt;li&gt;Tidyr
+- Trees
+- Random Forests&lt;/li&gt;
+&lt;li&gt;Regularization
+- Regularization in Random Forests (RRF)
+- Guided Regularization in Random Forests (GRRF)&lt;/li&gt;
+&lt;li&gt;Exploring the GRRF model
+- Evaluating the GRRF
+- Extending the GRRF&lt;/li&gt;
+&lt;li&gt;Conclusions and Final Remarks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;o-ambiente-r&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;O ambiente R&lt;/h1&gt;
+&lt;p&gt;R é um conjunto integrado de instalações de software para manipulação de dados, cálculo e exibição gráfica. Inclui:&lt;/p&gt;
+&lt;p&gt;-uma instalação eficaz de manipulação e armazenamento de dados;&lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;-um conjunto de operadores para cálculos;&lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;-uma coleção grande, coerente e integrada de ferramentas intermediárias para análise de dados;&lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;-instalações gráficas para análise de dados e exibição na tela ou em cópia impressa; e&lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;p&gt;-uma linguagem de programação bem desenvolvida, simples e eficaz, que inclui condicionais, loops, funções recursivas definidas pelo usuário e recursos de entrada e saída.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetos-r&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Objetos R&lt;/h1&gt;
+&lt;p&gt;R possui cinco classes básicas ou “atômicas” de objetos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Character&lt;/strong&gt;: texto&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Integer&lt;/strong&gt;: números inteiros&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Numeric&lt;/strong&gt;: números reais&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Complex&lt;/strong&gt;: números complexos (raramente usados)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Logical&lt;/strong&gt;: TRUE, FALSE&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Factor&lt;/strong&gt;: variáveis categóricas&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tipos-de-objetos&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Tipos de Objetos&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Vector&lt;/strong&gt;: unidimensional, apenas uma classe&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Matriz&lt;/strong&gt;: bidimensional, apenas uma classe&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Data.frame&lt;/strong&gt;: lista de vetores&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;List&lt;/strong&gt;: pode contar diferentes classes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O objeto mais básico é um vetor.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;o-tidyverse&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;O &lt;em&gt;tidyverse&lt;/em&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;O tidyverse é uma coleção de pacotes R projetados para ciência de dados. Todos os pacotes compartilham uma filosofia de design, gramática e estruturas de dados subjacentes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;imagens/tidyverse.png&#34; width=&#34;90%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tibbles-x-data-frames&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Tibbles x Data frames&lt;/h1&gt;
+&lt;p&gt;Mas afinal, como dois quadros de dados aparecem totalmente diferentes no console?&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;remark.js-vs-xaringan&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;remark.js vs xaringan&lt;/h1&gt;
+&lt;p&gt;Some differences between using remark.js (left) and using &lt;strong&gt;xaringan&lt;/strong&gt; (right):&lt;/p&gt;
+&lt;p&gt;.pull-left[
+1. Start with a boilerplate HTML file;&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Plain Markdown;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Write JavaScript to autoplay slides;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Manually configure MathJax;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Highlight code with &lt;code&gt;*&lt;/code&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Edit Markdown source and refresh browser to see updated slides;
+]&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.pull-right[
+1. Start with an R Markdown document;&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;R Markdown (can embed R/other code chunks);&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Provide an option &lt;code&gt;autoplay&lt;/code&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;MathJax just works;&lt;sup&gt;*&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Highlight code with &lt;code&gt;{{}}&lt;/code&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The RStudio addin “Infinite Moon Reader” automatically refreshes slides on changes;
+]&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.footnote[[*] Not really. See next page.]&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;por-que-deveria-ser-isso&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Por que deveria ser isso?&lt;/h1&gt;
+&lt;p&gt;R segue um conjunto de convenções que tornam um layout de dados tabulares muito mais fácil de trabalhar do que outros. Seus dados serão mais fáceis de trabalhar no R se seguirem três regras:&lt;/p&gt;
+&lt;p&gt;.pull-left[&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Cada variável no conjunto de dados é colocada em sua própria coluna&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cada observação é colocada em sua própria linha&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cada valor é colocado em sua própria célula *
+]&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;.pull-left[]&lt;/p&gt;
+&lt;p&gt;Os dados que satisfazem essas regras são conhecidos como dados organizados . Observe que table1são dados organizados.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;imagens/tidy-1.png&#34; width=&#34;90%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;footnote-.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;.footnote[[*] .]&lt;/h2&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;introdução&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introdução&lt;/h1&gt;
+&lt;p&gt;A visualização é uma ferramenta importante para a geração de &lt;em&gt;insights&lt;/em&gt;, mas é raro você obter os dados exatamente da forma correta de que precisa. Frequentemente, você precisará criar algumas novas variáveis ou resumos, ou talvez apenas queira renomear as variáveis ou reordenar as observações para tornar os dados um pouco mais fáceis de trabalhar. Você aprenderá como fazer tudo isso (e muito mais!) Neste capítulo, que ensinará como transformar seus dados usando o pacote dplyr e um novo conjunto de dados em voos partindo de Nova York em 2013.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Plots&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tables&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Tables&lt;/h1&gt;
+&lt;p&gt;If you want to generate a table, make sure it is in the HTML format (instead of Markdown or other formats), e.g.,&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+Sepal.Length
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+Sepal.Width
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+Petal.Length
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+Petal.Width
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Species
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+setosa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+setosa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+setosa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+setosa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+setosa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+setosa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;operadores-lógicos&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Operadores Lógicos&lt;/h1&gt;
+&lt;p&gt;Vários argumentos para filter()são combinados com “e”: toda expressão deve ser verdadeira para que uma linha seja incluída na saída. Para outros tipos de combinações, você precisará usar operadores booleanos: &amp;amp; é “e”, | é “ou” e ! é “não”. A Figura mostra o conjunto completo de operações booleanas.&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-5&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;imagens/transform-logical.png&#34; alt=&#34;Conjunto completo de operações booleanas. x é o círculo do lado esquerdo, y é o círculo do lado direito e a região sombreada mostra quais partes cada operador seleciona.&#34; width=&#34;80%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Conjunto completo de operações booleanas. x é o círculo do lado esquerdo, y é o círculo do lado direito e a região sombreada mostra quais partes cada operador seleciona.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;dados-organizados&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Dados Organizados&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Famílias felizes são todas iguais; toda família infeliz é infeliz à sua maneira.” – Leo Tolstoi&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Os conjuntos de dados organizados são todos iguais, mas todos os conjuntos de dados confusos são confusos à sua maneira.” – Hadley Wickham&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;os-6-verbos-do-dplyr&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Os 6 verbos do dplyr&lt;/h1&gt;
+&lt;p&gt;select(): seleciona colunas&lt;/p&gt;
+&lt;p&gt;filter(): seleciona linhas&lt;/p&gt;
+&lt;p&gt;arrange(): ordena de acordo com uma ou mais colunas&lt;/p&gt;
+&lt;p&gt;mutate(): cria/modifica colunas&lt;/p&gt;
+&lt;p&gt;summarise(): sumariza/agrega colunas&lt;/p&gt;
+&lt;p&gt;group_by(): agrupa colunas&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;select&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;select()&lt;/code&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;filter&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;filter()&lt;/code&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;arrange&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;arrange()&lt;/code&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mutate&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;mutate()&lt;/code&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;summarise&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;summarise()&lt;/code&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;group_by&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;group_by()&lt;/code&gt;&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;pipe&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;code&gt;%&amp;gt;%&lt;/code&gt; pipe&lt;/h1&gt;
+&lt;p&gt;O pipe &lt;code&gt;%&amp;gt;%&lt;/code&gt; vem do pacote &lt;strong&gt;magrittr&lt;/strong&gt; de Stefan Milton Bache. Pacotes no tidyverse carregam &lt;code&gt;%&amp;gt;%&lt;/code&gt; para você automaticamente, para que você normalmente não carregue o magrittr explicitamente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atalho&lt;/strong&gt;: CTRL + SHIFT + M&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-tips&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Some Tips&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;To make slides work offline, you need to download a copy of remark.js in advance, because &lt;strong&gt;xaringan&lt;/strong&gt; uses the online version by default (see the help page &lt;code&gt;?xaringan::moon_reader&lt;/code&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You can use &lt;code&gt;xaringan::summon_remark()&lt;/code&gt; to download the latest or a specified version of remark.js. By default, it is downloaded to &lt;code&gt;libs/remark-latest.min.js&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Then change the &lt;code&gt;chakra&lt;/code&gt; option in YAML to point to this file, e.g.&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If you used Google fonts in slides (the default theme uses &lt;em&gt;Yanone Kaffeesatz&lt;/em&gt;, &lt;em&gt;Droid Serif&lt;/em&gt;, and &lt;em&gt;Source Code Pro&lt;/em&gt;), they won’t work offline unless you download or install them locally. The Heroku app &lt;a href=&#34;https://google-webfonts-helper.herokuapp.com/fonts&#34;&gt;google-webfonts-helper&lt;/a&gt; can help you download fonts and generate the necessary CSS.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;macros&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Macros&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;remark.js &lt;a href=&#34;https://github.com/yihui/xaringan/issues/80&#34;&gt;allows users to define custom macros&lt;/a&gt; (JS functions) that can be applied to Markdown text using the syntax &lt;code&gt;![:macroName arg1, arg2, ...]&lt;/code&gt; or &lt;code&gt;![:macroName arg1, arg2, ...](this)&lt;/code&gt;. For example, before remark.js initializes the slides, you can define a macro named &lt;code&gt;scale&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class=&#34;js&#34;&gt;&lt;code&gt;remark.macros.scale = function (percentage) {
+  var url = this;
+  return &amp;#39;&amp;lt;img src=&amp;quot;&amp;#39; + url + &amp;#39;&amp;quot; style=&amp;quot;width: &amp;#39; + percentage + &amp;#39;&amp;quot; /&amp;gt;&amp;#39;;
+};&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then the Markdown text&lt;/p&gt;
+&lt;pre class=&#34;markdown&#34;&gt;&lt;code&gt;![:scale 50%](image.jpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;will be translated to&lt;/p&gt;
+&lt;pre class=&#34;html&#34;&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;image.jpg&amp;quot; style=&amp;quot;width: 50%&amp;quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;macros-continued&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Macros (continued)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;To insert macros in &lt;strong&gt;xaringan&lt;/strong&gt; slides, you can use the option &lt;code&gt;beforeInit&lt;/code&gt; under the option &lt;code&gt;nature&lt;/code&gt;, e.g.,&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
+  xaringan::moon_reader:
+    nature:
+      beforeInit: &amp;quot;macros.js&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You save your remark.js macros in the file &lt;code&gt;macros.js&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;code&gt;beforeInit&lt;/code&gt; option can be used to insert arbitrary JS code before &lt;code&gt;remark.create()&lt;/code&gt;. Inserting macros is just one of its possible applications.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;css&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;CSS&lt;/h1&gt;
+&lt;p&gt;Among all options in &lt;code&gt;xaringan::moon_reader&lt;/code&gt;, the most challenging but perhaps also the most rewarding one is &lt;code&gt;css&lt;/code&gt;, because it allows you to customize the appearance of your slides using any CSS rules or hacks you know.&lt;/p&gt;
+&lt;p&gt;You can see the default CSS file &lt;a href=&#34;https://github.com/yihui/xaringan/blob/master/inst/rmarkdown/templates/xaringan/resources/default.css&#34;&gt;here&lt;/a&gt;. You can completely replace it with your own CSS files, or define new rules to override the default. See the help page &lt;code&gt;?xaringan::moon_reader&lt;/code&gt; for more information.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;css-1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;CSS&lt;/h1&gt;
+&lt;p&gt;For example, suppose you want to change the font for code from the default “Source Code Pro” to “Ubuntu Mono”. You can create a CSS file named, say, &lt;code&gt;ubuntu-mono.css&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class=&#34;css&#34;&gt;&lt;code&gt;@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+.remark-code, .remark-inline-code { font-family: &amp;#39;Ubuntu Mono&amp;#39;; }&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then set the &lt;code&gt;css&lt;/code&gt; option in the YAML metadata:&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
+  xaringan::moon_reader:
+    css: [&amp;quot;default&amp;quot;, &amp;quot;ubuntu-mono.css&amp;quot;]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here I assume &lt;code&gt;ubuntu-mono.css&lt;/code&gt; is under the same directory as your Rmd.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://github.com/yihui/xaringan/issues/83&#34;&gt;yihui/xaringan#83&lt;/a&gt; for an example of using the &lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;Fira Code&lt;/a&gt; font, which supports ligatures in program code.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;themes&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Themes&lt;/h1&gt;
+&lt;p&gt;Don’t want to learn CSS? Okay, you can use some user-contributed themes. A theme typically consists of two CSS files &lt;code&gt;foo.css&lt;/code&gt; and &lt;code&gt;foo-fonts.css&lt;/code&gt;, where &lt;code&gt;foo&lt;/code&gt; is the theme name. Below are some existing themes:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] &amp;quot;chocolate-fonts&amp;quot;  &amp;quot;chocolate&amp;quot;        &amp;quot;default-fonts&amp;quot;   
+##  [4] &amp;quot;default&amp;quot;          &amp;quot;duke-blue&amp;quot;        &amp;quot;fc-fonts&amp;quot;        
+##  [7] &amp;quot;fc&amp;quot;               &amp;quot;hygge-duke&amp;quot;       &amp;quot;hygge&amp;quot;           
+## [10] &amp;quot;kunoichi&amp;quot;         &amp;quot;lucy-fonts&amp;quot;       &amp;quot;lucy&amp;quot;            
+## [13] &amp;quot;maynooth-fonts&amp;quot;   &amp;quot;maynooth&amp;quot;         &amp;quot;metropolis-fonts&amp;quot;
+## [16] &amp;quot;metropolis&amp;quot;       &amp;quot;middlebury-fonts&amp;quot; &amp;quot;middlebury&amp;quot;      
+## [19] &amp;quot;ninjutsu&amp;quot;         &amp;quot;rladies-fonts&amp;quot;    &amp;quot;rladies&amp;quot;         
+## [22] &amp;quot;robot-fonts&amp;quot;      &amp;quot;robot&amp;quot;            &amp;quot;rutgers-fonts&amp;quot;   
+## [25] &amp;quot;rutgers&amp;quot;          &amp;quot;shinobi&amp;quot;          &amp;quot;tamu-fonts&amp;quot;      
+## [28] &amp;quot;tamu&amp;quot;             &amp;quot;uo-fonts&amp;quot;         &amp;quot;uo&amp;quot;              
+## [31] &amp;quot;uol-fonts&amp;quot;        &amp;quot;uol&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;themes-1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Themes&lt;/h1&gt;
+&lt;p&gt;To use a theme, you can specify the &lt;code&gt;css&lt;/code&gt; option as an array of CSS filenames (without the &lt;code&gt;.css&lt;/code&gt; extensions), e.g.,&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you want to contribute a theme to &lt;strong&gt;xaringan&lt;/strong&gt;, please read &lt;a href=&#34;https://yihui.name/en/2017/10/xaringan-themes&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;background-image: url(&lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg&#34; class=&#34;uri&#34;&gt;https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg&lt;/a&gt;)
+background-size: 100px
+background-position: 90% 8%&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;sharingan&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Sharingan&lt;/h1&gt;
+&lt;p&gt;The R package name &lt;strong&gt;xaringan&lt;/strong&gt; was derived&lt;sup&gt;1&lt;/sup&gt; from &lt;strong&gt;Sharingan&lt;/strong&gt;, a dōjutsu in the Japanese anime &lt;em&gt;Naruto&lt;/em&gt; with two abilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;the “Eye of Insight”&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;the “Eye of Hypnotism”&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think a presentation is basically a way to communicate insights to the audience, and a great presentation may even “hypnotize” the audience.&lt;sup&gt;2,3&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;.footnote[
+[1] In Chinese, the pronounciation of &lt;em&gt;X&lt;/em&gt; is &lt;em&gt;Sh&lt;/em&gt; /ʃ/ (as in &lt;em&gt;shrimp&lt;/em&gt;). Now you should have a better idea of how to pronounce my last name &lt;em&gt;Xie&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;[2] By comparison, bad presentations only put the audience to sleep.&lt;/p&gt;
+&lt;p&gt;[3] Personally I find that setting background images for slides is a killer feature of remark.js. It is an effective way to bring visual impact into your presentations.
+]&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;naruto-terminology&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Naruto terminology&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;xaringan&lt;/strong&gt; package borrowed a few terms from Naruto, such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://naruto.wikia.com/wiki/Sharingan&#34;&gt;Sharingan&lt;/a&gt; (写輪眼; the package name)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://naruto.wikia.com/wiki/Moon_Reader&#34;&gt;moon reader&lt;/a&gt; (月読; an attractive R Markdown output format)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://naruto.wikia.com/wiki/Chakra&#34;&gt;Chakra&lt;/a&gt; (查克拉; the path to the remark.js library, which is the power to drive the presentation)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://naruto.wikia.com/wiki/Nature_Transformation&#34;&gt;Nature transformation&lt;/a&gt; (性質変化; transform the chakra by setting different options)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://naruto.wikia.com/wiki/Infinite_Tsukuyomi&#34;&gt;infinite moon reader&lt;/a&gt; (無限月読; start a local web server to continuously serve your slides)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://naruto.wikia.com/wiki/Summoning_Technique&#34;&gt;summoning technique&lt;/a&gt; (download remark.js from the web)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can click the links to know more about them if you want. The jutsu “Moon Reader” may seem a little evil, but that does not mean your slides are evil.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: center&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hand-seals-印&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hand seals (印)&lt;/h1&gt;
+&lt;p&gt;Press &lt;code&gt;h&lt;/code&gt; or &lt;code&gt;?&lt;/code&gt; to see the possible ninjutsu you can use in remark.js.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: center, middle&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;thanks&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Thanks!&lt;/h1&gt;
+&lt;p&gt;Slides created via the R package &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;the-chakra-comes-from-remark.js-knitr-and-r-markdown.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The chakra comes from &lt;a href=&#34;https://remarkjs.com&#34;&gt;remark.js&lt;/a&gt;, &lt;a href=&#34;http://yihui.name/knitr&#34;&gt;&lt;strong&gt;knitr&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;https://rmarkdown.rstudio.com&#34;&gt;R Markdown&lt;/a&gt;.&lt;/h2&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliography&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliography&lt;/h1&gt;
+&lt;p&gt;
+&lt;cite&gt;Breiman, L.
+(2001).
+“Random Forests”.
+In: &lt;em&gt;Machine Learning&lt;/em&gt;.
+ISSN: 1098-6596.
+DOI: &lt;a href=&#34;https://doi.org/10.1017/CBO9781107415324.004&#34;&gt;10.1017/CBO9781107415324.004&lt;/a&gt;.
+eprint: arXiv:1011.1669v3.&lt;/cite&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;cite&gt;Deng, H. and G. C. Runger
+(2012).
+“Gene selection with guided regularized random forest”.
+In: &lt;em&gt;CoRR&lt;/em&gt; abs/1209.6425.
+eprint: 1209.6425.
+URL: &lt;a href=&#34;http://arxiv.org/abs/1209.6425&#34;&gt;http://arxiv.org/abs/1209.6425&lt;/a&gt;.&lt;/cite&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;cite&gt;Friedman, J. H.
+(1991).
+“Rejoinder: Multivariate Adaptive Regression Splines”.
+In: &lt;em&gt;The Annals of Statistics&lt;/em&gt;.
+ISSN: 0090-5364.
+DOI: &lt;a href=&#34;https://doi.org/10.1214/aos/1176347973&#34;&gt;10.1214/aos/1176347973&lt;/a&gt;.
+eprint: arXiv:1306.3979v1.&lt;/cite&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;cite&gt;Hastie, T, R. Tibshirani, and J. Friedman
+(2009).
+“The Elements of Statistical Learning”.
+In: &lt;em&gt;Elements&lt;/em&gt; 1, pp. 337–387.
+ISSN: 03436993.
+DOI: &lt;a href=&#34;https://doi.org/10.1007/b94608&#34;&gt;10.1007/b94608&lt;/a&gt;.
+eprint: 1010.3003.
+URL: &lt;a href=&#34;http://www.springerlink.com/index/10.1007/b94608&#34;&gt;http://www.springerlink.com/index/10.1007/b94608&lt;/a&gt;.&lt;/cite&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: center, middle, inverse&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;obrigado&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Obrigado!&lt;/h1&gt;
+&lt;p&gt;&amp;lt;img src= “&lt;a href=&#34;https://s3.amazonaws.com/kleebtronics-media/img/icons/github-white.png&#34; class=&#34;uri&#34;&gt;https://s3.amazonaws.com/kleebtronics-media/img/icons/github-white.png&lt;/a&gt;”, width=“50”, height=“50”, align=“middle”&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;citation&#34;&gt;[@Doug7Vinicius]&lt;/span&gt;(&lt;a href=&#34;https://github.com/Doug7Vinicius/introduction-dplyr&#34; class=&#34;uri&#34;&gt;https://github.com/Doug7Vinicius/introduction-dplyr&lt;/a&gt;)&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
