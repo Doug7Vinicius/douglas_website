@@ -11,10 +11,6 @@ image:
   caption: '[**dplyr**](https://dplyr.tidyverse.org/)'
   focal_point: Right
 links:
-- icon: slide
-  icon_pack: fab
-  name: Slides
-  url: https://github.com/Doug7Vinicius/douglas_website/blob/master/content/slides/ninja/intro-dplyr.html#1
 - icon: github
   icon_pack: fab
   name: Materiais
@@ -28,6 +24,7 @@ math: true
 projects:
 - internal-project
 publishDate: "2019-09-07"
+slides: example
 summary: Minicurso sobre manipulação de dados com o pacote dplyr e suas funções básicas.
 tags: [dplyr, R, tidyverse]
 title: Introdução ao Pacote dplyr
