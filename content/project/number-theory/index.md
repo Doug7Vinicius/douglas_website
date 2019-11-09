@@ -13,7 +13,7 @@ slides: example
 summary: Números primos, resultados, curiosidades, testes de primalidade e fatoração.
 tags:
 -  Demo
-title: Números Primos e Criptografia RSA
+title: Números Primos
 url_code: ""
 url_pdf: ""
 url_slides: ""
