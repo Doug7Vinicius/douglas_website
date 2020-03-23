@@ -11,7 +11,7 @@ image:
   preview_only: false
 links:
 - name: Custom Link
-  url: http://example.org
+  url: 
 projects:
 - internal-project
 publication: ""
@@ -24,14 +24,14 @@ summary: in progress...
 tags:
 - Source Themes
 title: Prime Number Theory
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_pdf: 
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 ---
 
 {{% alert note %}}
