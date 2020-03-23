@@ -9,6 +9,7 @@ education:
     year: 2020
 email: "doug7statistic@gmail.com"
 interests:
+- Number Theory
 - Survival Analysis
 - R programming
 name: Douglas Vinícius
