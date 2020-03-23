@@ -6,7 +6,7 @@ date: "2019-04-07T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://www.scitecheuropa.eu/wp-content/uploads/2019/05/reimann-hypothesis-prime-numbers-696x392.jpg)'
   focal_point: ""
   preview_only: false
 links:
