@@ -2,32 +2,36 @@
 abstract: in progress...
 authors:
 - admin
-date: "2020-09-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/HA77W0vdlQQ)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: ''
-publication_short: ""
+links:
+- name: Custom Link
+  url: 
+projects:
+- internal-project
+publication:
+publication_short:
 publication_types:
-- "2"
+- "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: in progress...
 tags:
 - Source Themes
-title: Cox Regression Analysis
-url_code: ""
-url_dataset: ""
-url_pdf:
-url_poster: ""
+title: Survival Analysis
+url_code: ''
+url_dataset: ''
+url_pdf: 
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: ""
+url_source: ''
+url_video: ''
 ---
 
 {{% alert note %}}
@@ -39,3 +43,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
