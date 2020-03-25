@@ -4,10 +4,10 @@ authors:
 - admin
 date: "2020-02-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: '[**Sir David Cox**](https://pt.wikipedia.org/wiki/David_Cox)'
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 projects: []
 publication: ''
