@@ -6,7 +6,7 @@ date: "2020-02-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/HA77W0vdlQQ)'
+  caption: '[**Sir David Cox**](https://pt.wikipedia.org/wiki/David_Cox)'
   focal_point: ""
   preview_only: false
 projects: []
