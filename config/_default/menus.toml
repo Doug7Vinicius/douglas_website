@@ -32,7 +32,7 @@
   name = "CV"
   url = ""
   weight = 50
-  
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
