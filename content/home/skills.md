@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R Programming"
-  description = "tidyverse + R Markdown + blogdown"
+  description = "R Markdown + blogdown + R Sweave"
   
 #[[feature]]
 #  icon = "python"
@@ -26,11 +26,11 @@ subtitle = ""
 #  name = "Python"
 #  description = "Jupyter"
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Data Visualisation"
-  description = "ggplot2"  
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Data Visualisation"
+#  description = "ggplot2"  
 
 #[[feature]]
 #  icon = "camera-retro"
