@@ -10,8 +10,6 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: 
 projects:
 - internal-project
 publication: ""
@@ -22,11 +20,12 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: in progress...
 tags:
-- Source Themes
+- number theory
+- prime
 title: Prime Number Theory
 url_code: ''
 url_dataset: ''
-url_pdf: 
+url_pdf: '#'
 url_poster: ''
 url_project: ""
 url_slides: ""

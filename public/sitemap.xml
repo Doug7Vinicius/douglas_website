@@ -38,6 +38,16 @@
   </url>
   
   <url>
+    <loc>/tags/number-theory/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prime/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/prime/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,11 +63,6 @@
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -69,6 +74,11 @@
   
   <url>
     <loc>/publication/cox/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +133,12 @@
   </url>
   
   <url>
-    <loc>/tags/logic/</loc>
+    <loc>/categories/logic/</loc>
     <lastmod>2019-09-20T21:14:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/logic/</loc>
+    <loc>/tags/logic/</loc>
     <lastmod>2019-09-20T21:14:14-05:00</lastmod>
   </url>
   
