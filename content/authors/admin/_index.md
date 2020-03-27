@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My interests in studies include linear regression, statistical probability programming in R.
+bio: My interests in studies include survival analysis, number theory and programming in R.
 education:
   courses:
   - course: Bachelor of Statistics
