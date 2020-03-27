@@ -34,7 +34,5 @@ url_source: ''
 url_video: ''
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 
