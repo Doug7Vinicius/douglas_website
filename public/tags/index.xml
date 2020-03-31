@@ -29,10 +29,26 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <title>Cox</title>
+      <link>/tags/cox/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival</title>
+      <link>/tags/survival/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/survival/</guid>
       <description></description>
     </item>
     
@@ -81,14 +97,6 @@
       <link>/tags/demo/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

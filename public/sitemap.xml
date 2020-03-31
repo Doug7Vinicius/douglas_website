@@ -73,12 +73,22 @@
   </url>
   
   <url>
+    <loc>/tags/cox/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/cox/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
+    <loc>/tags/regression/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/survival/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,12 +143,12 @@
   </url>
   
   <url>
-    <loc>/categories/logic/</loc>
+    <loc>/tags/logic/</loc>
     <lastmod>2019-09-20T21:14:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/logic/</loc>
+    <loc>/categories/logic/</loc>
     <lastmod>2019-09-20T21:14:14-05:00</lastmod>
   </url>
   
@@ -174,11 +184,6 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   

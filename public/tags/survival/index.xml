@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Douglas Vinícius</title>
-    <link>/publication_types/1/</link>
-      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Survival | Douglas Vinícius</title>
+    <link>/tags/survival/</link>
+      <atom:link href="/tags/survival/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survival</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/normal_1.png</url>
-      <title>1</title>
-      <link>/publication_types/1/</link>
+      <title>Survival</title>
+      <link>/tags/survival/</link>
     </image>
     
     <item>
@@ -17,6 +17,14 @@
       <link>/publication/cox/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival Analysis</title>
+      <link>/publication/survival/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/survival/</guid>
       <description></description>
     </item>
     
