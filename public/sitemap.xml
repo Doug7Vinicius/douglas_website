@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>/en/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>/en/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>/en/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/4/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/4/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/en/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/number-theory/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/publication/prime/</loc>
+    <loc>/en/publication/prime/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +63,7 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/en/publication/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/publication/cox/</loc>
+    <loc>/en/publication/cox/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,7 +98,7 @@
   </url>
   
   <url>
-    <loc>/publication/survival/</loc>
+    <loc>/en/publication/survival/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +118,7 @@
   </url>
   
   <url>
-    <loc>/talk/dplyr/</loc>
+    <loc>/en/talk/dplyr/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +133,7 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/en/talk/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,7 +158,7 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/en/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2019-09-20T21:14:14-05:00</lastmod>
   </url>
   
@@ -168,7 +173,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/en/post/</loc>
     <lastmod>2019-09-20T21:14:14-05:00</lastmod>
   </url>
   
@@ -178,37 +183,37 @@
   </url>
   
   <url>
-    <loc>/project/number-theory/</loc>
+    <loc>/en/project/number-theory/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/en/project/regression-project/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/regression-project/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>/en/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/en/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>/en/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/terms/</loc>
+    <loc>/en/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
@@ -218,7 +223,7 @@
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/en/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,11 +233,11 @@
   </url>
   
   <url>
-    <loc>/project/survival-analysis/</loc>
+    <loc>/en/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/en/project/survival-analysis/</loc>
   </url>
   
 </urlset>
