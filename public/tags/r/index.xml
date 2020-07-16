@@ -14,17 +14,25 @@
     
     <item>
       <title>Introdução ao Pacote dplyr</title>
-      <link>/en/talk/dplyr/</link>
+      <link>/pt/talk/dplyr/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/en/talk/dplyr/</guid>
+      <guid>/pt/talk/dplyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Pacote dplyr</title>
+      <link>/talk/dplyr/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/dplyr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression Project</title>
-      <link>/en/project/regression-project/</link>
+      <link>/project/regression-project/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/en/project/regression-project/</guid>
+      <guid>/project/regression-project/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Chinese website title...</title>
+    <link>/pt/tags/</link>
+      <atom:link href="/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-bz</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/normal_1.png</url>
+      <title>Tags</title>
+      <link>/pt/tags/</link>
+    </image>
+    
+    <item>
+      <title>dplyr</title>
+      <link>/pt/tags/dplyr/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/tags/dplyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/pt/tags/r/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>/pt/tags/tidyverse/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/tags/tidyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logic</title>
+      <link>/pt/tags/logic/</link>
+      <pubDate>Fri, 20 Sep 2019 21:14:14 -0500</pubDate>
+      <guid>/pt/tags/logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>/pt/tags/math/</link>
+      <pubDate>Fri, 20 Sep 2019 21:14:14 -0500</pubDate>
+      <guid>/pt/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/pt/tags/demo/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>/pt/tags/regression/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/pt/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pt/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

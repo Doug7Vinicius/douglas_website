@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Chinese website title...</title>
+    <link>/pt/authors/</link>
+      <atom:link href="/pt/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-bz</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/normal_1.png</url>
+      <title>Authors</title>
+      <link>/pt/authors/</link>
+    </image>
+    
+    <item>
+      <title>Douglas Vinícius</title>
+      <link>/pt/authors/douglas-vinicius/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/authors/douglas-vinicius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisângela C. Biazatti</title>
+      <link>/pt/authors/elisangela-c.-biazatti/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/authors/elisangela-c.-biazatti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jossivana Macedo</title>
+      <link>/pt/authors/jossivana-macedo/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/authors/jossivana-macedo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pt/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/pt/authors/admin/</guid>
+      <description>&lt;p&gt;I am a statistics scholar, seeking to understand what is apparently chaotic and to see hidden patterns.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I have been put to death on the cross with Christ; still I am living; no longer I, but Christ is living in me; and that life which I now am living in the flesh I am living by faith, the faith of the Son of God, who in love for me, gave himself up for me.&lt;/em&gt; - Galatians 2:20.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dominus illuminatio mea&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

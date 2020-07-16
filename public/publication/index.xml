@@ -5,36 +5,12 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/normal_1.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
-    
-    <item>
-      <title>Prime Number Theory</title>
-      <link>/publication/prime/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/prime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cox Regression Analysis</title>
-      <link>/publication/cox/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survival Analysis</title>
-      <link>/publication/survival/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/survival/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

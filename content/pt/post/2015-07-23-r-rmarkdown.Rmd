@@ -1,0 +1,13 @@
+---
+title: "Lógica Matemática"
+author: "Douglas Vinícius"
+date: 2019-09-20T21:14:14-05:00
+categories: ["Math", "logic"]
+tags: ["math", "logic"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Lógica Matemática
